@@ -465,6 +465,25 @@ ul#nav li.current a { color: #11ABB0; }
    color: #fff;
 }
 
+#fireevacuationtrainingsimulator .awards { width: 65%; }
+#fireevacuationtrainingsimulator .videoDemo {
+   width: 35%;
+   padding-top: 6px;
+}
+
+#about .videoDemo .button {
+   margin-top: 6px;
+   background: #444;
+}
+#about .videoDemo .button:hover {
+   background: #fff;
+   color: #2B2B2B;
+}
+#about .videoDemo .button i {
+   margin-right: 15px;
+   font-size: 20px;
+}
+
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
 /* ------------------------------------------------------------------ */
