@@ -425,7 +425,7 @@ ul#nav li.current a { color: #11ABB0; }
 }
 
 #fireevacuationtrainingsimulator a, #fireevacuationtrainingsimulator a:visited  { color: #fff; }
-#fireevacuationtrainingsimulator a:hover, #fireevacuationtrainingsimulator a:focus { color: #11ABB0; }
+/* #fireevacuationtrainingsimulator a:hover, #fireevacuationtrainingsimulator a:focus { color: #11ABB0; } */
 
 #fireevacuationtrainingsimulator h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
@@ -434,7 +434,6 @@ ul#nav li.current a { color: #11ABB0; }
 }
 #fireevacuationtrainingsimulator p {
    line-height: 30px;
-   color: #7A7A7A;
 }
 
 #fireevacuationtrainingsimulator .main-col { padding-right: 5%; }
@@ -472,7 +471,7 @@ ul#nav li.current a { color: #11ABB0; }
 }
 
 #about .videoDemo .button {
-   margin-top: 6px;
+   margin-top: 10px;
    background: #444;
 }
 #about .videoDemo .button:hover {
