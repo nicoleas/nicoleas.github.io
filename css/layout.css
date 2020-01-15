@@ -441,8 +441,8 @@ ul#nav li.current a { color: #11ABB0; }
 
 #fireevacuationtrainingsimulator .display-pic-1 {
    position: relative;
-   width: 314px;
-   height: 236px;
+   width: 275px;
+   height: 200px;
    /* border-radius: 100%; */
 }
 
@@ -454,13 +454,13 @@ ul#nav li.current a { color: #11ABB0; }
 }
 
 #fireevacuationtrainingsimulator .firstAward i {
-   font: 15px 'opensans-bold', sans-serif;
+   font: 15px, sans-serif;
    margin-right: 15px;
    color: #fff;
 }
 
 #fireevacuationtrainingsimulator .secondAward i {
-   font: 15px 'opensans-bold', sans-serif;
+   font: 15px, sans-serif;
    margin-right: 15px;
    color: #fff;
 }
