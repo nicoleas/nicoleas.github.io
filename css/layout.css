@@ -209,8 +209,8 @@ ul#nav li.current a { color: #11ABB0; }
 }
 #about .profile-pic {
    position: relative;
-   width: 300px;
-   height: 550px;
+   width: 120px;
+   height: 120px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -454,13 +454,13 @@ ul#nav li.current a { color: #11ABB0; }
 }
 
 #fireevacuationtrainingsimulator .firstAward i {
-   font: 20px 'opensans-bold', sans-serif;
+   font: 15px 'opensans-bold', sans-serif;
    margin-right: 15px;
    color: #fff;
 }
 
 #fireevacuationtrainingsimulator .secondAward i {
-   font: 20px 'opensans-bold', sans-serif;
+   font: 15px 'opensans-bold', sans-serif;
    margin-right: 15px;
    color: #fff;
 }
