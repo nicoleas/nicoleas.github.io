@@ -465,9 +465,9 @@ ul#nav li.current a { color: #11ABB0; }
    color: #fff;
 }
 
-#fireevacuationtrainingsimulator .awards { width: 65%; }
+#fireevacuationtrainingsimulator .awards { width: 60%; }
 #fireevacuationtrainingsimulator .videoDemo {
-   width: 35%;
+   width: 40%;
    padding-top: 6px;
 }
 
@@ -480,8 +480,8 @@ ul#nav li.current a { color: #11ABB0; }
    color: #2B2B2B;
 }
 #about .videoDemo .button i {
-   margin-right: 15px;
-   font-size: 20px;
+   margin-right: 10px;
+   font-size: 16px;
 }
 
 /* ------------------------------------------------------------------ */
